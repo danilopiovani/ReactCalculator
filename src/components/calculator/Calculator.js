@@ -343,7 +343,7 @@ const Calculator = () => {
     return (
         <Container className="Container_Calculator" fluid>
             <Row xs={12} className="justify-content-center">
-                <Col xs={12} md={2}>
+                <Col xs={12}>
                     <Table className={calculatorTableColor}>
                         <tbody>
                             <tr className="ColorRow">

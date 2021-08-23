@@ -3,6 +3,10 @@
   margin-top: 10px;
 }
 
+table{
+  max-width: min-content;
+}
+
 .ColorRow{
   background-color:#FFF; 
   border:1px solid #999;
