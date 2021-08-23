@@ -1,0 +1,37 @@
+.Container_Calculator{
+  width: 100%;
+  margin-top: 10px;
+}
+
+.ColorRow{
+  background-color:#FFF; 
+  border:1px solid #999;
+  margin:auto;
+  justify-content: center;
+  width: 100%;
+
+}
+
+.AvatarGroup{
+  margin:auto;
+  justify-content: center;
+  width: 100%;
+}
+
+.resultDisplay{
+  text-align:right;
+  min-height: 60px;
+  background-color:#555;
+  font-size:40px;
+  padding-right: 5px;
+  margin:0px;
+  font-weight: bold;
+}
+
+.resultMathDisplay{
+  text-align:right;
+  background-color:#444;
+  color:orange;
+  font-size:12px;
+  padding-right: 10px;
+}
